@@ -201,7 +201,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: #555;
+		background: #FFA500;
 		border-radius: 5px;
 		color: #FFA500;
 		font-family: "Source Code Pro", monospace;
@@ -1790,7 +1790,7 @@ input, select, textarea {
 	}
 
 		header.major h2 + p {
-			color: #777;
+			color: #FFA500;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1803,7 +1803,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #777;
+		color: #FFA500;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 700;
@@ -1826,7 +1826,7 @@ input, select, textarea {
 		appearance: none;
 		border-radius: 5px;
 		border: none;
-		border: solid 2px #e4e4e4;
+		border: solid 2px #FFA500;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -1987,7 +1987,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 5px;
-		border: solid 2px #e4e4e4;
+		border: solid 2px #FFA500;
 		margin-bottom: 2.25em;
 		padding: 1.5em;
 	}
@@ -2215,7 +2215,7 @@ input, select, textarea {
 		}
 
 			ul.alt li {
-				border-top: solid 2px #f4f4f4;
+				border-top: solid 2px #FFA500;
 				padding: 0.5em 0;
 			}
 
@@ -2629,7 +2629,7 @@ input, select, textarea {
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
+		border-top: solid 3px #FFA500;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
@@ -2676,7 +2676,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #FFA500;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2783,7 +2783,7 @@ input, select, textarea {
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #FFA500;
 							color: #4acaa8 !important;
 						}
 
@@ -2794,7 +2794,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: #FFA500;
 		padding-right: 23em;
 	}
 
@@ -3005,7 +3005,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #222;
+				background: #FFA500;
 				color: #fff;
 				min-width: 320px;
 			}
