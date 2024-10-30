@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #FFA500;
 		}
 
 	select {
@@ -1948,7 +1948,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #FFA500;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2377,7 +2377,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #FFA500;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2594,7 +2594,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		.button.primary {
 			border: 2px solid white;
-			background-color: #4acaa8;
+			background-color: #FFA500;
 			color: #ffffff !important;
 		}
 
@@ -2784,7 +2784,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #FFA500;
-							color: #4acaa8 !important;
+							color: #FFA500!important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3047,7 +3047,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #FFA500;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
