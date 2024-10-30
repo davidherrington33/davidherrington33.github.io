@@ -2819,7 +2819,6 @@ input, select, textarea {
 		border-top: 0;
 		color: #000000;
 		overflow: hidden;
-		padding: 4em 0 2em 0;
 	}
 
 		#footer .copyright {
@@ -2829,7 +2828,7 @@ input, select, textarea {
 		}
 
 			#footer .copyright li {
-				border-left: solid 1px #d4d4d4;
+			
 				display: inline-block;
 				font-size: 0.8em;
 				margin-left: 1em;
